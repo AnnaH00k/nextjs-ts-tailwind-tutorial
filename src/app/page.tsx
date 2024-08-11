@@ -2,7 +2,7 @@
 export default function Home() {
   return (
     <div className="min-h-screen bg-[#1a202c] text-[#f7fafc] flex flex-col items-center justify-center p-6">
-      <h1 className="text-5xl font-extrabold text-[#63b3ed] mb-6">
+      <h1 className="text-5xl text-center font-extrabold text-[#63b3ed] mb-6">
         Next.js + TypeScript + Tailwind CSS Tutorial
       </h1>
       <p className="text-xl text-[#e2e8f0] mb-8 max-w-3xl">

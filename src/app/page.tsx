@@ -12,7 +12,7 @@ export default function Home() {
 
       <div className="flex flex-col sm:flex-row gap-4 mb-8 flex-wrap justify-center max-w-lg">
         <a
-          href="https://github.com/your-username/your-repo"
+          href="https://github.com/AnnaH00k/nextjs-ts-tailwind-tutorial"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-[#3182ce] text-[#ffffff] py-2 px-6 rounded-lg hover:bg-[#2b6cb0] transition shadow-lg"
